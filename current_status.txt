@@ -1,0 +1,3 @@
+/home/kiro/oslabs/assignments/lab1/sourcedir:
+total 4
+-rw-rw-r-- 1 kiro kiro 91 Oct 24 11:09 test.txt
